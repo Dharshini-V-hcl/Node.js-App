@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
